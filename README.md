@@ -1,2 +1,2 @@
-# meu_primeiro_contato_com_html
-Fiz um post sobre a plataforma DIO
+# Meu primeiro contato com HTML
+Fiz um post sobre a plataforma DIO, contendo imagem, cores, linhas, links
